@@ -332,3 +332,131 @@
 // document.write("variable names should not be js, " + words + "<br>")
 
 
+
+//   ========================= MATH EXPRESSIONS   part 5=======================
+
+// 1. Write a program that take two numbers & add them in a
+// new variable. Show the result in your browser.
+
+// let num1 = 3
+// let num2 = 2
+
+// let total = num1 + num2
+
+// document.write("the sum of " + num1 + " and " + num2 + " is " + total)
+
+// 2. Repeat task1 for subtraction, multiplication, division &
+// modulus.
+
+// let num1 = 3
+// let num2 = 2
+
+// let total = num1 - num2
+
+// document.write("the subtract of " + num1 + " and " + num2 + " is " + total)
+
+// let num1 = 3
+// let num2 = 2
+
+// let total = num1 * num2
+
+// document.write("the multiplication of " + num1 + " and " + num2 + " is " + total)
+
+
+// let num1 = 3
+// let num2 = 2
+
+// let total = num1 % num2
+
+// document.write("the modulous of " + num1 + " and " + num2 + " is " + total)
+
+
+// 3. Do the following using JS Mathematic Expressions
+// a. Declare a variable.
+// b. Show the value of variable in your browser like “Value
+// after variable declaration is: ??”.
+// c. Initialize the variable with some number.
+// d. Show the value of variable in your browser like “Initial
+// value: 5”.
+// e. Increment the variable.
+// f. Show the value of variable in your browser like “Value
+// after increment is: 6”.
+// g. Add 7 to the variable.
+// h. Show the value of variable in your browser like “Valueafter addition is: 13”.
+// i. Decrement the variable.
+// j. Show the value of variable in your browser like “Value
+// after decrement is: 12”.
+// k. Show the remainder after dividing the variable’s value
+// by 3.
+// l. Output : “The remainder is : 0”.
+
+
+// a. Declare a variable
+// var num;
+
+// // b. Display the value after declaration
+// document.write("Value after variable declaration is: " + num + "<br>");
+
+// // c. Initialize the variable with a number
+// num = 5;
+
+// // d. Display the initial value
+// document.write("Initial value: " + num + "<br>");
+
+// // e. Increment the variable
+// num++;
+
+// // f. Display the value after increment
+// document.write("Value after increment is: " + num + "<br>");
+
+// // g. Add 7 to the variable
+// num = num + 7;
+
+// // h. Display the value after addition
+// document.write("Value after addition is: " + num + "<br>");
+
+// // i. Decrement the variable
+// num--;
+
+// // j. Display the value after decrement
+// document.write("Value after decrement is: " + num + "<br>");
+
+// // k. Find the remainder after dividing by 3
+// var remainder = num % 3;
+
+// // l. Display the remainder
+// document.write("The remainder is: " + remainder);
+
+
+// 4. Cost of one movie ticket is 600 PKR. Write a script to store
+// ticket price in a variable & calculate the cost of buying 5 tickets
+// to a movie. Example output:
+
+// let price = 600
+
+// let totalprice = price * 5
+
+// document.write("the price of five ticket is " + price)
+
+
+// 5. Write a script to display multiplication table of any
+// number in your browser. E.g
+
+// document.write("4 * 1 = 4" + "<br>")
+// document.write("4 * 2 = 8" + "<br>")
+// document.write("4 * 3 = 12" + "<br>")
+// document.write("4 * 4 = 16" + "<br>")
+// document.write("4 * 5 = 20" + "<br>")
+// document.write("4 * 6 = 24" + "<br>")
+// document.write("4 * 7 = 28" + "<br>")
+// document.write("4 * 8 = 32" + "<br>")
+// document.write("4 * 9 = 36" + "<br>")
+// document.write("4 * 10 = 40" + "<br>")
+
+// 6. The Temperature Converter: It’s hot out! Let’s make a
+// converter based on the steps here.
+// a. Store a Celsius temperature into a variable.
+// b. Convert it to Fahrenheit & output “NNoC is NNoF”.
+// c. Now store a Fahrenheit temperature into a variable.
+// d. Convert it to Celsius & output “NNoF is NNoC”.
+// Conversion Formulae:
