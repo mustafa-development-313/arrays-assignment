@@ -145,5 +145,190 @@
 // 1. Write a script to greet your website visitor using JS alert
 // box.
 
+// alert("welcome to my website!")
+
+
+// 2. Write a script to display following message on your web
+// page:
+
+// alert("Error!, please enter a valid password") output: "Error!, please enter a valid password"
+
+
+// 3. Write a script to display following message on your web
+// page: (Hint : Use line break)
+
+// alert("welcome to js land.... \nHappy coding") output: "welcome to js land....
+//                                                         nHappy coding"
+
+
+// 4. Write a script to display following messages in sequence:
+
+// alert("welcome to js land")
+// alert("happy coding ")
+
+// 5. Generate the following message through browser’s
+// developer console:
+
+// completed
+
+// 6. Make use of alerts in your new/existing HTML & CSS
+// project.
+
+// completed in question6.html
+
+// 7. Practice placement of <script></script> element in
+// following sections of your project in exercise 6:
+// a. Head
+// b. Body (before your page’s HTML)
+// c. Body (inside your page’s HTML)
+// d. Body (after your page’s HTML)
+
+
+// completed in question6.html
+
+
+//   ========================= VARIABLES FOR STRINGS part 2=======================
+
+// 1. Declare a variable called username.
+
+// var username;
+
+// 2. Declare a variable called myName & assign to it a string
+// that represents your Full Name.
+
+// var myname = "mustafa rahimi"
+
+// 3. Write script to
+// a) Declare a JS variable, titled message.
+// b) Assign “Hello World” to variable message
+// c) Display the message in alert box.
+
+// var message = "hello world"
+// alert(message)
+
+
+// 4. Write a script to save student’s bio data in JS variables and
+// show the data in alert boxes
+
+// var name = "mustafa"
+// var age = "19"
+// var qualification = "matric pass"
+
+// alert("name:"+ name)
+// alert("age:"+ age)
+// alert("qualification:"+ qualification)
+
+// 5. Write a script to display the following alert using one JS
+// variable:
+
+// var check = "pizza\npizz\npiz\npi\np"
+// alert(check)
+
+
+// 6. Declare a variable called email and assign to it a string that
+// represents your Email Address(e.g. example@example.com).
+// Show the blow mentioned message in an alert box.(Hint: use
+// string concatenation)
+
+// var email = "mustafarahimi@gmail.com"
+// alert("my email address is :" + email)
+
+// 7. Declare a variable called book & give it the value “A
+// smarter way to learn JavaScript”. Display the following
+// message in an alert box:
+
+// var book = "a smarter way to learn javascript"
+// alert("i am learning from this book:" + book)
+
+
+// 8. Write a script to display this in browser through JS
+
+// var message = "my name is ali and i want to learn javascript"
+// document.write(message)
+
+// 9. Store following string in a variable and show in alert and
+// browser through JS
+
+// var pattern = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
+// alert(pattern)
+// console.log(pattern)
+
+
+//   ========================= VARIABLES FOR NUMBERS  part 3=======================
+
+// 1. Declare a variable called age & assign to it your age. Show
+// your age in an alert box
+
+// var age = "20"
+// alert("my age is " + age)
+
+// 2. Declare & initialize a variable to keep track of how many
+// times a visitor has visited a web page. Show his/her
+// number of visits on your web page. For example: “You
+// have visited this site N times”.
+
+// var visitd = "10"
+
+// alert("you have visited this website " + visitd + " times")
+
+
+// 3. Declare a variable called birthYear & assign to it your
+// birth year. Show the following message in your browser:
+
+// var birthyear = "my age year is 2000"
+// document.write(birthyear)
+
+// 4. A visitor visits an online clothing store
+// www.xyzClothing.com . Write a script to store in variables
+// the following information:
+// a. Visitor’s name
+// b. Product title
+// c. Quantity i.e. how many products a visitor wants to
+// order
+// Show the following message in your browser: “John
+// Doe ordered 5 T-shirt(s) on XYZ Clothing store”.
+
+// var visitorname = "mustafa"
+// var visitorproduct = "shoes"
+// var visitorquantity = "2 pair"
+
+// document.write(visitorname + " ordered " + visitorquantity + " " + visitorproduct + " from xyz clothing store")
+
+
+
+
+//   ========================= VARIABLE NAMES: LEGAL & ILLEGAL  part 4=======================
+
+
+// 1. Declare 3 variables in one statement.
+
+// var name,age,fathername;
+
+// 2. Declare 5 legal & 5 illegal variable names.
+
+// var myName;
+// var age;
+// var student_1;
+// var $price;
+// var userName;
+
+// var 1name;
+// var my-name;
+// var var;
+// var user name;
+// var @price;
+
+
+// 3. Display this in your browser
+
+// var namescontain = "Letters, numbers, dollar signs ($), and underscores (_)."
+// var begin = "A letter, dollar sign ($), or underscore (_)."
+// var names = "sensitive"
+// var words = "Keywords"
+
+// document.write("variable names can contain, " + namescontain + "<br>")
+// document.write("variable must begin with, " + begin + "<br>")
+// document.write("variable names are case, " + names + "<br>")
+// document.write("variable names should not be js, " + words + "<br>")
 
 
